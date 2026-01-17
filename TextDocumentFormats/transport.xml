@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+
+    <vehicle type="bus" fuel="diesel">
+        <name>City Bus</name>
+        <capacity>80</capacity>
+        <operator>Public Transport</operator>
+        <averageSpeed unit="km/h">40</averageSpeed>
+    </vehicle>
+
+    <vehicle type="car" fuel="petrol">
+        <name>Personal Car</name>
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <averageSpeed unit="km/h">90</averageSpeed>
+    </vehicle>
+
+    <vehicle type="train" fuel="electric">
+        <name>Regional Train</name>
+        <capacity>300</capacity>
+        <operator>Railways</operator>
+        <averageSpeed unit="km/h">120</averageSpeed>
+    </vehicle>
+
+</transport>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>anna.may@example.com</sender>
+    <recipient>john.smith@example.com</recipient>
+    <subject>Project Update</subject>
+    <body>
+        The project has been completed successfully.
+        Please find the report attached.
+    </body>
+</email>

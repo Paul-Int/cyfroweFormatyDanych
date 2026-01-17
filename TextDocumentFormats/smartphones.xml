@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+
+    <smartphone brand="Apple" model="iPhone 13">
+        <os>iOS</os>
+        <storage unit="GB">128</storage>
+        <color>Midnight</color>
+        <releaseYear>2021</releaseYear>
+    </smartphone>
+
+    <smartphone brand="Samsung" model="Galaxy S22">
+        <os>Android</os>
+        <storage unit="GB">256</storage>
+        <color>Black</color>
+        <releaseYear>2022</releaseYear>
+    </smartphone>
+
+</smartphones>
